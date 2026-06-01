@@ -22,9 +22,8 @@ btop
 btrfs-progs
 bluetui
 bluez
-bluez-untils
+bluez-utils
 brightnessctl
-bridge-utils
 btrfs-progs
 clonezilla
 cloud-init
@@ -37,7 +36,6 @@ code
 cpio
 darkhttpd
 ddrescue
-devdocs-desktop
 dhcpcd
 diffutils
 dmidecode
@@ -46,8 +44,7 @@ dnsmasq
 dosfstools
 docker
 docker-compose
-downgrade
-dkpg
+dpkg
 e2fsprogs
 edk2-shell
 efibootmgr
@@ -89,7 +86,6 @@ iwd
 jfsutils
 jless
 jq
-kanata-bin
 kitty-terminfo
 kitty
 krita
@@ -98,7 +94,6 @@ less
 lftp
 libfido2
 libusb-compat
-librewold-bin
 linux
 linux-lts
 linux-atm
@@ -106,7 +101,6 @@ linux-firmware
 linux-firmware-marvell
 livecd-sounds
 lsscsi
-localsend-bin
 lvm2
 lynx
 lynis
@@ -137,8 +131,6 @@ ntfs-3g
 ntp
 noto-fonts-cjk
 noto-fonts-emoji
-nordzy-cursors
-nordzy-hyprcursors
 nwg-look
 nvme-cli
 open-iscsi
@@ -148,12 +140,9 @@ openpgp-card-tools
 openssh
 openvpn
 openbsd-netcat
-oh-my-posh-bin
 os-prober
 cryptsetup
 otf-font-awesome
-paru
-paru-debug
 partclone
 parted
 partimage
@@ -169,7 +158,7 @@ pass
 procs
 qemu-guest-agent
 qjackctl
-qtracktor
+qtractor
 refind
 reflector
 ripgrep
@@ -219,7 +208,7 @@ uwsm
 neovim
 virtualbox-guest-utils-nox
 vpnc
-vulcan-radeon
+vulkan-radeon
 waybar
 wdisplays
 wget
@@ -241,3 +230,20 @@ zathura-pdf-mupdf
 zip
 zoxide
 zsh
+
+#
+# multilib packages
+bridge-utils
+downgrade
+kanata-bin
+localsend-bin
+nordzy-cursors
+nordzy-hyprcursors
+oh-my-posh-bin
+paru
+paru-debug
+
+
+# problem child
+#librewolf-bin
+#devdocs-desktop
